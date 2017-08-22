@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://debuco.github.io/en/</loc>
-<lastmod>2017-08-22T20:38:20-00:00</lastmod>
+<lastmod>2017-08-22T21:04:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://debuco.github.io/en/archives.html</loc>
-<lastmod>2017-08-22T20:38:20-00:00</lastmod>
+<lastmod>2017-08-22T21:04:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://debuco.github.io/en/tags.html</loc>
-<lastmod>2017-08-22T20:38:20-00:00</lastmod>
+<lastmod>2017-08-22T21:04:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://debuco.github.io/en/categories.html</loc>
-<lastmod>2017-08-22T20:38:20-00:00</lastmod>
+<lastmod>2017-08-22T21:04:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://debuco.github.io/en/pages/2017/08/22/about me/</loc>
+<lastmod>2017-08-22T21:04:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -46,6 +53,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://debuco.github.io/en/category/about-me.html</loc>
+<lastmod>2017-08-22T21:04:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://debuco.github.io/en/category/python.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -55,6 +69,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://debuco.github.io/en/category/reading.html</loc>
 <lastmod>2017-08-18T14:04:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://debuco.github.io/en/tag/about-me.html</loc>
+<lastmod>2017-08-22T21:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -90,6 +111,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://debuco.github.io/en/author/conan-doyle.html</loc>
 <lastmod>2017-08-18T14:04:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://debuco.github.io/en/author/debuco.html</loc>
+<lastmod>2017-08-22T21:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
